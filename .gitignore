@@ -1,0 +1,9 @@
+# Dependencias
+node_modules/
+
+# Archivos de caché
+.cache/
+.temp/
+
+# Archivos de entorno 
+.env
